@@ -1,6 +1,6 @@
 <h1 align="center">
   <span style="font-size: 3em; background: linear-gradient(45deg, #00ffff, #0080ff, #00ffff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0 0 30px #00ffff, 0 0 60px #0080ff;">
-    🚀 SILA MD WHISPER 🚀
+    🚀 𝙍𝙊𝙉𝙄𝙉04-𝙈𝘿 𝘽𝙊𝙏 𝙐𝙎𝙍🚀
   </span>
 </h1>
 
@@ -25,7 +25,7 @@
 <br>
 
 <div align="center">
-  <img src="https://files.catbox.moe/36vahk.png" width="200" height="200" style="border-radius:50%;border: 3px solid #00ffff;box-shadow: 0 0 30px #00ffff, 0 0 50px #0080ff;">
+  <img src="bot-image.jpg" width="200" height="200" style="border-radius:50%;border: 3px solid #00ffff;box-shadow: 0 0 30px #00ffff, 0 0 50px #0080ff;">
 </div>
 
 <br>
@@ -170,7 +170,7 @@
 
 ---
 
-**💫 Built with ❤️ by [SILA TECH](https://github.com/Sila-Md) 💫**
+**💫 Built with ❤️ by [Ronin MD](https://github.com/israrudding4) 💫**
 
 <br>
 
